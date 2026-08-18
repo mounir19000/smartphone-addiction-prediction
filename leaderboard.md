@@ -2,7 +2,9 @@
 
 | Submission File | Score |
 | :--- | :--- |
-| `native_nan_fixed_optuna.csv` | **0.96458** |
+| `native_nan_optuna_v2.csv` | **0.96578** |
+| `oof_stacking_optuna_submission.csv` | 0.96558 |
+| `native_nan_fixed_optuna.csv` | 0.96458 |
 | `LGBMClassifier_optuna.csv` | 0.96184 |
 | `native_nan_fixed.csv` | 0.95958 |
 | `LGBMClassifier.csv` | 0.95710 |
