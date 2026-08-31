@@ -2,8 +2,8 @@
 
 | Submission File | Score |
 | :--- | :--- |
+| `oof_stacking_rank_submission.csv` (with Masked NN) | **0.96589** |
 | `oof_stacking_logits_submission.csv` | **0.96584** |
-| `oof_stacking_rank_submission.csv` | **0.96584** |
 | `native_nan_optuna_v2.csv` | 0.96578 |
 | `oof_stacking_optuna_submission.csv` | 0.96558 |
 | `native_nan_fixed_optuna.csv` | 0.96458 |

@@ -1,1 +1,7 @@
 venv/
+submissions/
+datasets/
+notebooks/catboost_info/
+*_output.ipynb
+__pycache__/
+
